@@ -3,3 +3,5 @@ My goal is to study more about back-end development since I lack experience in t
 Throughout the course, I expect to hone my problem-solving and debugging skills, which are crucial in overcoming coding challenges. 
 Collaboration and communication skills will also be a focus as I work on group projects, preparing me for effective teamwork in the tech industry. 
 By the course's conclusion, I want to be proficient not only in MERN stack but also in utilizing git commands.
+
+Comment: Agreed.
